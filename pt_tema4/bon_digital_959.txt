@@ -1,0 +1,2 @@
+Order 374 of client 132 was made on Thu May 26 01:52:11 EEST 2022 and contains the products :Smoked Caviar and Hummus on Pita Toasts ,Fresh Corn Tortillas ,;
+ The total price is : 158.0

@@ -1,0 +1,2 @@
+Order 0 of client 0 was made on Wed May 25 00:57:40 EEST 2022 and contains the products :Bacon-Wrapped Trout Stuffed with Balsamic Onion Compote in Rosemary Cream Sauce ;
+ The total price is : 64.0

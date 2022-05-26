@@ -1,0 +1,2 @@
+Order 0 of client 0 was made on Wed May 25 00:49:25 EEST 2022 and contains the products :Tamarind-Glazed Turkey Burgers Pasta With Swordfish and Cherry Tomato Sauce Fudgy Chocolate Birthday Cake ;
+ The total price is : 150.0

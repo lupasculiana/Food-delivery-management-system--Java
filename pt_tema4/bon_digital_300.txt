@@ -1,0 +1,2 @@
+Order 0 of client 0 was made on Wed May 25 00:54:14 EEST 2022 and contains the products :Orange Cheesecake with Caramel-Orange Sauce ;
+ The total price is : 60.0

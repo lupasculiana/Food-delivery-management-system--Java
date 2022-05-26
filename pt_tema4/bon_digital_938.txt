@@ -1,0 +1,2 @@
+Order 255 of client 604 was made on Thu May 26 02:47:52 EEST 2022 and contains the products :Red and Green Tomato Salsa ,Pumpkin Bread Pudding with Spicy Caramel Apple Sauce ,;
+ The total price is : 91.0

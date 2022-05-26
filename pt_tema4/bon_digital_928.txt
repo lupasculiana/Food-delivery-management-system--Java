@@ -1,0 +1,2 @@
+Order 370 of client 234 was made on Wed May 25 20:40:15 EEST 2022 and contains the products :Baked Potatoes with Rib-Eye Steak Hash ,;
+ The total price is : 57.0

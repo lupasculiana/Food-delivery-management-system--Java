@@ -1,0 +1,2 @@
+Order 0 of client 0 was made on Wed May 25 00:57:35 EEST 2022 and contains the products :Merguez Lamb Patties with Golden Raisin Couscous Chocolate-Almond Pie Caramelized Apple and Pear Pie ;
+ The total price is : 241.0

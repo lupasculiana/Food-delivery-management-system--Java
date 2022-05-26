@@ -1,0 +1,2 @@
+Order 0 of client 0 was made on Wed May 25 20:25:23 EEST 2022 and contains the products :Cilantro-Tomato Salsa ,Beef Stock ,;
+ The total price is : 115.0

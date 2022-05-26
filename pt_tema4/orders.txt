@@ -1,0 +1,5 @@
+849,433,Wed May 25 20:43:36 EEST 2022,Cilantro-Tomato Salsa ;Arugula Salad with Heirloom Tomatoes and Red Onion ;40.0
+374,132,Thu May 26 01:52:11 EEST 2022,Smoked Caviar and Hummus on Pita Toasts ;Fresh Corn Tortillas ;158.0
+267,759,Thu May 26 02:49:55 EEST 2022,Warm Sweet-Potato Pudding with Apples and Chestnuts ;67.0
+241,54,Thu May 26 02:49:59 EEST 2022,Sweet Potato Streusel ;68.0
+743,196,Thu May 26 17:47:49 EEST 2022,Raspberry Cream Cheese Brownies ;Corn Muffins with Green Onions and Sour Cream ;182.0

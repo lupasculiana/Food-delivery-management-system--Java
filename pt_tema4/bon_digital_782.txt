@@ -1,0 +1,2 @@
+Order 241 of client 54 was made on Thu May 26 02:49:59 EEST 2022 and contains the products :Sweet Potato Streusel ,;
+ The total price is : 68.0

@@ -1,0 +1,2 @@
+Order 0 of client 0 was made on Wed May 25 00:54:12 EEST 2022 and contains the products :Roasted Squash with Mint and Toasted Pumpkin Seeds Swiss Chard Lasagna with Ricotta and Mushroom ;
+ The total price is : 68.0

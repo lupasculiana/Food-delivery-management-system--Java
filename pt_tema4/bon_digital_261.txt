@@ -1,0 +1,2 @@
+Order 0 of client 0 was made on Wed May 25 20:33:15 EEST 2022 and contains the products :;
+ The total price is : 0.0

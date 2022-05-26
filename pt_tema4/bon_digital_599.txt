@@ -1,0 +1,2 @@
+Order 0 of client 0 was made on Wed May 25 20:27:44 EEST 2022 and contains the products :Ethiopian Spice Tea ,Barbecued Shrimp ,;
+ The total price is : 120.0

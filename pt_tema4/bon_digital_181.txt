@@ -1,0 +1,2 @@
+Order 0 of client 0 was made on Wed May 25 00:59:06 EEST 2022 and contains the products :Arugula Salad with Heirloom Tomatoes and Red Onion ;
+ The total price is : 21.0

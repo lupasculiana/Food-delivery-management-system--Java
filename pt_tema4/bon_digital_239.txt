@@ -1,0 +1,2 @@
+Order 0 of client 0 was made on Wed May 25 20:16:16 EEST 2022 and contains the products :The Original Three-Ingredient Rub ,Coriander-Herb Spice Rub ,;
+ The total price is : 98.0

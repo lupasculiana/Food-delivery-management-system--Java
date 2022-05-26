@@ -1,0 +1,2 @@
+Order 0 of client 0 was made on Wed May 25 00:53:54 EEST 2022 and contains the products :The Original Three-Ingredient Rub Beef Stock Classic Salad ;
+ The total price is : 157.0

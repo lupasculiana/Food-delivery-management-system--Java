@@ -1,0 +1,2 @@
+Clients that have ordered more than 1 times  with a minimum price of 3 are :
+433,132, 759, 54

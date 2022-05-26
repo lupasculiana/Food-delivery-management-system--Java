@@ -1,0 +1,2 @@
+Order 0 of client 0 was made on Wed May 25 20:21:03 EEST 2022 and contains the products :Scallion Cilantro Pancakes ,Tomato Salsa ,;
+ The total price is : 113.0

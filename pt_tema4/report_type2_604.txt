@@ -1,0 +1,2 @@
+Products ordered more than 3 times are :
+Beef Stock 4.375 24 4 1 87 96.0
